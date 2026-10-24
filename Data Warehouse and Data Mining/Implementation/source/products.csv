@@ -1,0 +1,37 @@
+product_id,product_name,category,subcategory,brand,list_price
+P001,Whole Wheat Bread,Grocery,Bakery,FreshBake,45
+P002,Butter 100g,Grocery,Dairy,DairyPure,56
+P003,Mixed Fruit Jam,Grocery,Spreads,FruitCo,120
+P004,Milk 1L,Grocery,Dairy,DairyPure,66
+P005,Eggs (12),Grocery,Dairy,FarmFresh,90
+P006,Basmati Rice 5kg,Grocery,Staples,GoldGrain,620
+P007,Wheat Flour 5kg,Grocery,Staples,GoldGrain,290
+P008,Tea 500g,Grocery,Beverages,TeaHouse,260
+P009,Coffee 200g,Grocery,Beverages,BeanBox,480
+P010,Sugar 1kg,Grocery,Staples,SweetLeaf,48
+P011,Potato Chips,Snacks,Chips,CrunchyJoe,20
+P012,Cola 750ml,Snacks,Soft Drinks,FizzUp,40
+P013,Cream Cookies,Snacks,Biscuits,BakeHouse,35
+P014,Instant Noodles,Snacks,Noodles,NoodleKing,14
+P015,Pasta 500g,Snacks,Noodles,NoodleKing,85
+P016,Pasta Sauce,Snacks,Sauces,FruitCo,110
+P017,Laptop 14in,Electronics,Computers,TechNova,45000
+P018,Wireless Mouse,Electronics,Accessories,TechNova,600
+P019,Keyboard,Electronics,Accessories,TechNova,1200
+P020,USB Drive 32GB,Electronics,Storage,DataSafe,450
+P021,Headphones,Electronics,Audio,SoundWave,1800
+P022,Power Bank 10000mAh,Electronics,Mobile Accessories,VoltPlus,1500
+P023,Smartphone,Electronics,Mobiles,TechNova,15000
+P024,Phone Case,Electronics,Mobile Accessories,VoltPlus,400
+P025,Screen Guard,Electronics,Mobile Accessories,VoltPlus,250
+P026,Fast Charger,Electronics,Mobile Accessories,VoltPlus,700
+P027,Shampoo 340ml,Personal Care,Hair Care,SilkyHair,250
+P028,Soap (4 pack),Personal Care,Bath,PureBath,150
+P029,Toothpaste,Personal Care,Oral Care,BrightSmile,95
+P030,Face Wash,Personal Care,Skin Care,GlowUp,220
+P031,Deodorant,Personal Care,Fragrance,FreshFit,240
+P032,Detergent 1kg,Home,Cleaning,CleanMax,210
+P033,Dishwash Liquid,Home,Cleaning,CleanMax,110
+P034,Bedsheet Double,Home,Furnishing,HomeNest,899
+P035,Water Bottle,Home,Kitchenware,HomeNest,350
+P036,LED Bulb 9W,Home,Lighting,BrightLite,120

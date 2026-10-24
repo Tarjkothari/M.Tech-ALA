@@ -1,0 +1,9 @@
+store_id,store_name,city,state,region,manager
+S01,RetailMart Bhavnagar Central,Bhavnagar,Gujarat,West,R. Mehta
+S02,RetailMart Ahmedabad Mall,Ahmedabad,Gujarat,West,K. Shah
+S03,RetailMart Surat City,Surat,Gujarat,West,P. Desai
+S04,RetailMart Mumbai Andheri,Mumbai,Maharashtra,West,S. Patil
+S05,RetailMart Delhi Connaught,Delhi,Delhi,North,A. Verma
+S06,RetailMart Chennai T Nagar,Chennai,Tamil Nadu,South,V. Raman
+S07,RetailMart Bengaluru Indiranagar,Bengaluru,Karnataka,South,N. Rao
+S08,RetailMart Kolkata Park Street,Kolkata,West Bengal,East,D. Banerjee
